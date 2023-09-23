@@ -11,7 +11,7 @@ This is a group project.
 At the end of this project, we learnt several sorting algorithms, and thier differnt **Big O** complexity.
 
 General  
-At least four different sorting algorithms 
+At least four different sorting algorithms    
 What is the Big O notation, and how to evaluate the time complexity of an algorithm  
 How to select the best sorting algorithm for a given input  
 What is a stable sorting algorithm  
